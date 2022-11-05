@@ -1,13 +1,13 @@
 # Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de Machine Learning de Classificação de Clientes, para a Alura Voz
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Customer Churn**
+| :label: Tecnologias | Python,scikit-learn, numpy, pandas entre outras  (tecnologias utilizadas)
+| :rocket: URL         | https://github.com/rgr-Andrade/customer-churn
+|      | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
